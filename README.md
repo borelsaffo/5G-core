@@ -22,6 +22,10 @@ no stateless: Oracle SCP is statefull: using database
 
 # SLF
 
+# SDM
+
+# SMSF
+
 # 5G EIR
 
 # Other 
