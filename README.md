@@ -16,12 +16,16 @@ https://forge.3gpp.org/rep/all/5G_APIs
 
 ![image](https://github.com/user-attachments/assets/2d375c7a-d8eb-413e-8485-d58920ca2db6)
 
+![image](https://github.com/user-attachments/assets/9a8cfd76-b939-46a2-8f59-05dd59aeeb48)
+
 
 # SCP : service communication Proxy
 
 ![image](https://github.com/user-attachments/assets/f926f171-df2c-46bd-a620-df89984fdf80)
 
 ![image](https://github.com/user-attachments/assets/15b6224e-77ab-40a9-a84c-f1fea2a3449f)
+
+![image](https://github.com/user-attachments/assets/48f55df9-df9b-4455-a774-30aa857adb42)
 
 
 no stateless: Oracle SCP is statefull: using database
@@ -41,6 +45,7 @@ no stateless: Oracle SCP is statefull: using database
 
 ![image](https://github.com/user-attachments/assets/53b2a730-754a-43db-afd9-6245c492200f)
 
+![image](https://github.com/user-attachments/assets/c9c3c2c1-357e-407d-b5b2-a60ac3431f99)
 
 # SLF
 
