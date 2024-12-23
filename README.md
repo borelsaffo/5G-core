@@ -15,16 +15,12 @@ no stateless: Oracle SCP is statefull: using database
 # NSSF
 ![image](https://github.com/user-attachments/assets/369299a8-63e1-48e5-9ae3-b4ec913346de)
 
-![image](https://github.com/user-attachments/assets/53b2a730-754a-43db-afd9-6245c492200f)
-
-![image](https://github.com/user-attachments/assets/c9c3c2c1-357e-407d-b5b2-a60ac3431f99)
+# SEPP
+![image](https://github.com/user-attachments/assets/f5573255-4f5a-4855-8277-6beda90eeb29)
 
 # SLF
 
 # 5G EIR
-
-# SEPP
-![image](https://github.com/user-attachments/assets/f5573255-4f5a-4855-8277-6beda90eeb29)
 
 # Other 
 
@@ -36,12 +32,5 @@ no stateless: Oracle SCP is statefull: using database
 
 ![image](https://github.com/user-attachments/assets/cadeb081-06a6-4d9e-9e87-5a157d043c17)
 
-
-# 
-calico en Daemonset : sur toutes les machines du cluster
-
-multus en Ds
-
-les egress en Daemonset : sur tous les machines du clusters
 
 
