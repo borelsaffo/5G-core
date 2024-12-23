@@ -73,4 +73,7 @@ multus en Ds
 
 les egress en Daemonset : sur tous les machines du clusters
 
+![image](https://github.com/user-attachments/assets/6a23a76c-9147-4b56-9e56-dfacf77d92c0)
+
+![image](https://github.com/user-attachments/assets/2f55c55b-889f-4c66-ad4e-47d628516285)
 
