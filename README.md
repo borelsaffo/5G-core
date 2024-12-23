@@ -5,39 +5,11 @@ https://forge.3gpp.org/rep/all/5G_APIs
 # 5G-core
 ![image](https://github.com/user-attachments/assets/168e34ae-5a15-461c-a054-969005195038)
 
-# 
-![image](https://github.com/user-attachments/assets/d80676ea-2ea2-4613-b100-5604508c5e6b)
-
-
-# NRF
-![image](https://github.com/user-attachments/assets/6801c9d5-f9cb-4873-8c05-43b8ecfb3627)
-
-![image](https://github.com/user-attachments/assets/cf014864-f42a-4b13-b723-e8b482fabb8d)
-
-![image](https://github.com/user-attachments/assets/2d375c7a-d8eb-413e-8485-d58920ca2db6)
-
-![image](https://github.com/user-attachments/assets/9a8cfd76-b939-46a2-8f59-05dd59aeeb48)
-
-
 # SCP : service communication Proxy
 
 ![image](https://github.com/user-attachments/assets/f926f171-df2c-46bd-a620-df89984fdf80)
-
-![image](https://github.com/user-attachments/assets/15b6224e-77ab-40a9-a84c-f1fea2a3449f)
-
-![image](https://github.com/user-attachments/assets/48f55df9-df9b-4455-a774-30aa857adb42)
-
-
 no stateless: Oracle SCP is statefull: using database
-![image](https://github.com/user-attachments/assets/c04ffa18-5fcf-4069-909c-8d3efb975eba)
-
-![image](https://github.com/user-attachments/assets/e501f722-d3c9-4b1b-8d01-877110058f9f)
-
-
 # BSF
-![image](https://github.com/user-attachments/assets/0d416117-7c85-46df-924a-0ba0243361e1)
-
-
 ![image](https://github.com/user-attachments/assets/e1c0600f-3e39-4322-829b-5e413fc13331)
 
 # NSSF
