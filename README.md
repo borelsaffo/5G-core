@@ -3,13 +3,15 @@
 https://forge.3gpp.org/rep/all/5G_APIs
 
 # 5G-core
-![image](https://github.com/user-attachments/assets/168e34ae-5a15-461c-a054-969005195038)
 
 # SCP : service communication Proxy
 
 ![image](https://github.com/user-attachments/assets/f926f171-df2c-46bd-a620-df89984fdf80)
+
 no stateless: Oracle SCP is statefull: using database
+
 # BSF
+
 ![image](https://github.com/user-attachments/assets/e1c0600f-3e39-4322-829b-5e413fc13331)
 
 # NSSF
