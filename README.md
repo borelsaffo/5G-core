@@ -66,10 +66,10 @@ no stateless: Oracle SCP is statefull: using database
 
 
 # 
-calico en Daemonset : car se déploie sur toutes les machines du cluster
+calico en Daemonset : sur toutes les machines du cluster
 
 multus en Ds
 
-les egress en Daemonset car se déploie sur tous les machines du clusters
+les egress en Daemonset : sur tous les machines du clusters
 
 
