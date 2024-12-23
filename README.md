@@ -1,3 +1,7 @@
+
+# 3GPP API
+https://forge.3gpp.org/rep/all/5G_APIs
+
 # 5G-core
 ![image](https://github.com/user-attachments/assets/168e34ae-5a15-461c-a054-969005195038)
 
