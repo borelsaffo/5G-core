@@ -40,4 +40,5 @@ no stateless: Oracle SCP is statefull: using database
 
 ![image](https://github.com/user-attachments/assets/1fb7e5cd-3265-42ad-b0d5-d6468e19b546)
 
+![5G archi](5G-SIGn.svg)
 
